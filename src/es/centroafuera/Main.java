@@ -8,5 +8,12 @@ public class Main {
         System.out.println("Bien!");
         System.out.println("Cualquier otra cosa");
     	// Esto es un comentario muy interesante
+
+        fun1();
+    }
+
+    public static void fun1 () {
+        System.out.println("Cualquier otra cosa");
+
     }
 }
