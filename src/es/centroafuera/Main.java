@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Bien!");
         System.out.println("Cualquier otra cosa");
     	// Esto es un comentario muy interesante
+        // Esto es un comentario muy interesante
+	    // Esto es otro comentario muy interesante
 
         fun1();
     }
